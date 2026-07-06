@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+build/
+dist/
+client/build/
+client/build-check/
+
+# VS Code
+.vscode/
